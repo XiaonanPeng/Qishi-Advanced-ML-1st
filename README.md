@@ -1,37 +1,49 @@
 This repository is for the first advanced machine learning study group in Qishi. The following is our syllabus:
 
 ### Lecture 0: Introduction
-- Understand the overall
+- Understand the overall structure and goals of the course.
+- Identify connections between different models.
+- Recognize real-world applications of the models discussed.
 ### Lecture 1: Lasso and Regularization
-
-### Lecture 2: PCA
-
+- Develop a comprehensive understanding of Lasso and its role in regularization.
+- Explore how Lasso performs feature selection by enforcing sparsity.
+- Understand implicit regularization and its effects on model complexity.
+- Examine the relationship between Lasso and boosting techniques.
+- Learn efficient computational methods like coordinate descent for solving Lasso problems.
+### Lecture 2: Principal Component Analysis(PCA)
+- Understand the mathematical foundation of PCA.
+- Learn how PCA reduces dimensionality by identifying key components that capture the most variance.
+- Explore the connection between PCA and Variational Autoencoders (VAEs) in terms of data representation and dimensionality reduction.
 ### Lecture 3: Proabilistic Graphcial Model
-
+- Understand the structure and types of probabilistic graphical models.
 ### Lecture 4: EM Algorithm 1
-
+- Understand the Expectation-Maximization algorithm.
+- Learn how to handle incomplete data sets.
+- Apply EM to estimate model parameters iteratively.
 ### Lecture 5: EM Algorithm 2 and Gaussian Mixture Model
-
+- Extend EM to Gaussian Mixture Models.
+- Understand clustering through GMMs.
 ### Lecture 6: Variational Inference
-
+- Understand the principles of variational inference.
+- Learn how to approximate complex posterior distributions.
 ### Lecture 7: State Space Model 1: Hidden Markov Model
-
+- Understand the structure of Hidden Markov Models.
 ### Lecture 8: State Space Model 2: Kalman Filter
-
+- Understand the working of Kalman Filters.
 ### Lecture 9: State Spcae Model 3: Particle Filter
-
+-
 ### Lecture 10: MCMC 1: Basic sampling method：Importance Sampling，Gibbs Sampling, MH mehtod
-
+-
 ### Lecture 11: MCMC 2: Advanced MCMC methods：SMC and HMC
-
+-
 ### Lecture 12: Variational Auto Encoder(VAE)
-
+-
 ### Lecture 13: Generative Adversarial Network(GAN)
-
+-
 ### Lecture 14: Diffusion Model 1: DDPM and DDIM
-
+-
 ### Lecture 15: Diffusion Model 2: Stable Diffusion
-
+-
 
 ### Reference Books:
 1. Pattern Recognition and Machine Learning, Bishop
