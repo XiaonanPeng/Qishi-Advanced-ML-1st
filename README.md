@@ -15,14 +15,19 @@ This repository is for the first advanced machine learning study group in Qishi.
 - Learn how PCA reduces dimensionality by identifying key components that capture the most variance.
 - Explore the connection between PCA and Variational Autoencoders (VAEs) in terms of data representation and dimensionality reduction.
 ### Lecture 3: Proabilistic Graphcial Model
-- Understand the structure and types of probabilistic graphical models.
-### Lecture 4: EM Algorithm 1
-- Understand the Expectation-Maximization algorithm.
-- Learn how to handle incomplete data sets.
-- Apply EM to estimate model parameters iteratively.
+- Understand the structure and types of probabilistic graphical models (PGMs), including Bayesian and Markov networks.
+- Learn how PGMs represent complex distributions and dependencies using graphs.
+- Explore the principles of Bayesian machine learning and how PGMs facilitate reasoning under uncertainty.
+### Lecture 4: Expectation-Maximization(EM) Algorithm 1
+- Understand the fundamentals of the Expectation-Maximization (EM) algorithm.
+- Learn the detailed mathematical derivation of the EM algorithm.
+- Explore the proofs of inequalities used in EM, such as Jensen's inequality.
+- Apply EM to simple applications like estimating parameters with missing data.
+- Discuss other common applications of the EM algorithm.
 ### Lecture 5: EM Algorithm 2 and Gaussian Mixture Model
-- Extend EM to Gaussian Mixture Models.
-- Understand clustering through GMMs.
+- Explore advanced applications of the EM algorithm, including the MM (Minorization-Maximization) algorithm.
+- Use Gaussian Mixture Models (GMMs) as a key example to understand the practical implementation of EM.
+- Delve into the iterative logic and convergence properties of EM in complex scenarios.
 ### Lecture 6: Variational Inference
 - Understand the principles of variational inference.
 - Learn how to approximate complex posterior distributions.
