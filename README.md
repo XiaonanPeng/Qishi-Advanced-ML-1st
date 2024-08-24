@@ -90,12 +90,12 @@ This repository is for the first advanced machine learning study group in Qishi.
 - Use of Wasserstein GANs (WGAN) to improve training stability by using the Earth Mover's distance.
 - Transition to diffusion models as an alternative generative approach that addresses some GAN limitations, providing more stable training and diverse outputs.
   
-### Lecture 14: Diffusion Model 1: DDPM and DDIM
+### Lecture 14: Diffusion Model 1: Theory
 - Understand how diffusion models generate data by reversing a diffusion process.
 - DDPM (Denoising Diffusion Probabilistic Models)
 - DDIM (Denoising Diffusion Implicit Models)
   
-### Lecture 15: Diffusion Model 2: Stable Diffusion
+### Lecture 15: Diffusion Model 2: Application
 - Understand how CLIP (Contrastive Language–Image Pretraining) helps bridge text and image modalities.
 - Explore Stable Diffusion's ability to produce high-quality images efficiently.
 - Examine recent advancements that combine diffusion models with large language models (LLMs).
