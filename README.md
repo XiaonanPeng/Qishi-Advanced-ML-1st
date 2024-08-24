@@ -1,7 +1,7 @@
 This repository is for the first advanced machine learning study group in Qishi. The following is our syllabus:
 
 ### Lecture 0: Introduction
-\itemize Understand the overall
+- Understand the overall
 ### Lecture 1: Lasso and Regularization
 
 ### Lecture 2: PCA
